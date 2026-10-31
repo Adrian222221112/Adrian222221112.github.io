@@ -1,0 +1,8 @@
+#titulo {
+    color: rgb(18, 87, 18);
+    position: absolute; left: 800px; top: 10px;
+}
+
+body {
+  background-color: beige;
+}
