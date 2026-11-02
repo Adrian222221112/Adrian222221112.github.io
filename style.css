@@ -1,25 +1,48 @@
+
 #titulo {
-  background-color: rgb(42, 90, 35);
-  right: 0px;
+  background-color: rgb(71, 102, 66);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   height: 90px;
   color: white;
-  position: absolute; 
-  left: 900px;
-  padding-top: 20px;
   box-sizing: border-box;
-}
-
-
-h2 {
-  position: absolute;
-  top: 150px;
-}
-
-p {
   position: relative;
-  top: 200px;
+  top: 10px;
+  display: flex;
+  align-items: center;    
 }
 
+.Intro1 {
+  position: absolute;
+  top: 200px;
+  left: 430px;
+}
+
+.Intro2 {
+  position: absolute;
+  top: 230px;
+  left: 430px;
+}
+
+.Intro3 {
+  position: absolute;
+  top: 250px;
+  left: 430px;
+}
+
+.Intro4 {
+  position: absolute;
+  top: 280px;
+  left: 430px;
+}
+
+
+.imagen-circle1 {
+  position: absolute;
+  left: 100px;
+  top: 170px;
+  width: 15%;
+  height: auto;
+}
 
 
 body {
@@ -27,10 +50,3 @@ body {
 }
 
 
-.imagen-TetrLogo {
-  width: 100px;
-  height: auto;
-  position: absolute;
-  left: 100px;
-  padding-top: 35px;
-}
